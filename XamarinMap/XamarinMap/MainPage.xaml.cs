@@ -17,5 +17,6 @@ namespace XamarinMap
         {
             InitializeComponent();
         }
+
     }
 }
